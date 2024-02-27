@@ -1,8 +1,10 @@
 ### Hi there, I'm [Yundong!](http://isyundong.com) 👋
 
-<a href="https://www.jianshu.com/u/899c1775022b">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/yundongzhang/yundongzhang/master/assets/jian.png" />
-</a>
+<!--
+  <a href="https://www.jianshu.com/u/899c1775022b">
+    <img align="left" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/yundongzhang/yundongzhang/master/assets/jian.png" />
+  </a>
+-->
 <a href="https://twitter.com/z971003">
   <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/yundongzhang/yundongzhang/master/assets/twitter.svg" />
 </a>
@@ -13,7 +15,7 @@
 Hi, I'm Yundong, a passionate self-taught developer from CHINA.
 
 - 💖  I Love Dota2, Music, Art, World
-- 🌱  I’m currently learning GoF23
+- 🌱  I’m currently learning Python
 - 📖  I’m currently reading [《鹿川有许多粪》](https://item.jd.com/12932605.html)
 - 💬  Ask me about anything [here](https://github.com/yundongzhang/yundongzhang/issues)
 
