@@ -11,8 +11,6 @@
 </a>
 -->
 
-<br />
-<br />
 
 Hi, I'm Yundong, a passionate self-taught developer from CHINA.
 
